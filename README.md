@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Saloni ✨
+🎓 Mathematics & Computing graduate from IIT (BHU), Varanasi <br>
+💻 Full-Stack Developer | Problem Solver | Tech Enthusiast <br>
+🏅 Achieved AIR 4493 in IIT-JEE Advanced among 300,000+ aspirants <br>
+💼 2-month Software Engineer Intern at Axtria — built Angular UI, boosted accuracy, and sped up queries <br>
+🛠 Skilled in ReactJS, Angular, Node.js, Express.js, MongoDB, Material-UI, Tailwind CSS & Bootstrap <br>
+💡 Proficient in C/C++, JavaScript, HTML/CSS, SQL with experience in building scalable and user-friendly applications <br>
+📚 Strong understanding of Data Structures & Algorithms, Operating Systems, OOPs, DBMS, Computer Architecture, and Computer Networks <br>
+📊 Solved 1000+ DSA problems on LeetCode & GFG <br>
+🥊 Boxer & Gold Medalist (Spardha 2022) | Captain, Boxing Club IIT BHU <br>
+🌱 Dedicated to continuous learning and delivering impactful work <br>
 
 <!--
 **saloni-432/saloni-432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
